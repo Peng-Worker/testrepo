@@ -1,5 +1,3 @@
-# testrepo
+# IBM Applied Data Science Capstone
 
-## Editing the file
-
-It's a markdown file in this repository.
+The hand on lab and last presentation of IBM Applied Data Science Capstone
